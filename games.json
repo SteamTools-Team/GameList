@@ -26085,7 +26085,7 @@
         "appid": "246360",
         "name": "Perfection.",
         "added_date": "2025-09-09T14:52:22.446190+00:00",
-        "updated_date": "2025-09-09T14:52:22.446190+00:00",
+        "updated_date": "2025-11-18T21:55:28.731791+00:00",
         "type": "game",
         "tags": [
             "Casual",
@@ -28596,7 +28596,7 @@
         "appid": "254440",
         "name": "Pool Nation",
         "added_date": "2025-06-27T02:31:29.574493+00:00",
-        "updated_date": "2025-06-26T08:42:24+00:00",
+        "updated_date": "2025-11-18T22:06:28.643305+00:00",
         "type": "game",
         "tags": [
             "Casual",
@@ -28908,6 +28908,18 @@
             "Adventure"
         ],
         "nsfw": false
+    },
+    {
+        "appid": "255960",
+        "name": "Bad Mojo Redux",
+        "type": "game",
+        "tags": [
+            "Adventure",
+            "Simulation"
+        ],
+        "nsfw": false,
+        "added_date": "2025-11-18T21:16:15.933098+00:00",
+        "updated_date": "2025-11-11T21:16:15.933111+00:00"
     },
     {
         "appid": "256010",
@@ -48555,7 +48567,7 @@
         "appid": "322330",
         "name": "Don't Starve Together",
         "added_date": "2025-09-22T02:54:53.620200+00:00",
-        "updated_date": "2025-09-22T02:54:53.620200+00:00",
+        "updated_date": "2025-11-18T21:43:35.398506+00:00",
         "type": "game",
         "tags": [
             "Action",
@@ -49210,7 +49222,7 @@
         "appid": "324110",
         "name": "Moto Racer Collection",
         "added_date": "2025-06-27T02:34:24.848802+00:00",
-        "updated_date": "2025-06-26T08:46:32+00:00",
+        "updated_date": "2025-11-18T21:57:37.538085+00:00",
         "type": "game",
         "tags": [
             "Racing",
@@ -63802,7 +63814,7 @@
         "appid": "362940",
         "name": "Courier of the Crypts",
         "added_date": "2025-06-27T02:33:49.453736+00:00",
-        "updated_date": "2025-06-26T08:45:35+00:00",
+        "updated_date": "2025-11-18T21:26:07.269847+00:00",
         "type": "game",
         "tags": [
             "Adventure",
@@ -71115,7 +71127,7 @@
         "appid": "382050",
         "name": "Eon Altar",
         "added_date": "2025-06-27T02:32:52.718633+00:00",
-        "updated_date": "2025-06-26T08:44:16+00:00",
+        "updated_date": "2025-11-18T21:46:19.277128+00:00",
         "type": "game",
         "tags": [
             "Action",
@@ -73003,7 +73015,7 @@
         "appid": "386840",
         "name": "Sentinel 4: Dark Star",
         "added_date": "2025-06-27T02:32:58.575644+00:00",
-        "updated_date": "2025-06-26T08:44:23+00:00",
+        "updated_date": "2025-11-18T21:59:47.204356+00:00",
         "type": "game",
         "tags": [
             "Indie",
@@ -74281,7 +74293,7 @@
         "appid": "390710",
         "name": "Acceleration of SUGURI 2",
         "added_date": "2025-06-27T02:31:58.218540+00:00",
-        "updated_date": "2025-06-26T08:42:58+00:00",
+        "updated_date": "2025-11-18T21:20:20.403419+00:00",
         "type": "game",
         "tags": [
             "Action",
@@ -77890,6 +77902,18 @@
             "Simulation"
         ],
         "nsfw": false
+    },
+    {
+        "appid": "401200",
+        "name": "Invisible Apartment 2",
+        "type": "game",
+        "tags": [
+            "Adventure",
+            "Indie"
+        ],
+        "nsfw": false,
+        "added_date": "2025-11-18T21:30:30.456837+00:00",
+        "updated_date": "2025-11-11T21:30:30.456853+00:00"
     },
     {
         "appid": "401210",
@@ -87275,6 +87299,17 @@
         "nsfw": false
     },
     {
+        "appid": "430190",
+        "name": "Wondershot",
+        "type": "game",
+        "tags": [
+            "Indie"
+        ],
+        "nsfw": false,
+        "added_date": "2025-11-18T21:47:07.098437+00:00",
+        "updated_date": "2025-11-11T21:47:07.098452+00:00"
+    },
+    {
         "appid": "430210",
         "name": "Megaton Rainfall",
         "added_date": "2025-06-27T02:34:44.494564+00:00",
@@ -89050,7 +89085,7 @@
         "appid": "434650",
         "name": "Lost Castle / 失落城堡",
         "added_date": "2025-06-27T02:33:45.759729+00:00",
-        "updated_date": "2025-06-26T08:45:31+00:00",
+        "updated_date": "2025-11-18T22:03:00.732089+00:00",
         "type": "game",
         "tags": [
             "Action",
@@ -94275,7 +94310,7 @@
         "appid": "449940",
         "name": "! That Bastard Is Trying To Steal Our Gold !",
         "added_date": "2025-06-27T02:32:54.641167+00:00",
-        "updated_date": "2025-06-26T08:44:18+00:00",
+        "updated_date": "2025-11-18T21:34:13.189476+00:00",
         "type": "game",
         "tags": [
             "Action",
@@ -96590,6 +96625,18 @@
             "Indie"
         ],
         "nsfw": false
+    },
+    {
+        "appid": "456760",
+        "name": "A dragon girl looks up at the endless sky",
+        "type": "game",
+        "tags": [
+            "Action",
+            "RPG"
+        ],
+        "nsfw": false,
+        "added_date": "2025-11-18T21:36:03.439550+00:00",
+        "updated_date": "2025-11-11T21:36:03.439562+00:00"
     },
     {
         "appid": "456780",
@@ -99374,7 +99421,7 @@
         "appid": "464260",
         "name": "Xeno Crisis",
         "added_date": "2025-06-27T02:34:27.945808+00:00",
-        "updated_date": "2025-06-26T08:46:37+00:00",
+        "updated_date": "2025-11-18T21:33:27.124424+00:00",
         "type": "game",
         "tags": [
             "Action"
@@ -102982,6 +103029,18 @@
             "Simulation"
         ],
         "nsfw": false
+    },
+    {
+        "appid": "479000",
+        "name": "IrreVRsible",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Indie"
+        ],
+        "nsfw": false,
+        "added_date": "2025-11-18T22:01:16.812780+00:00",
+        "updated_date": "2025-11-11T22:01:16.812795+00:00"
     },
     {
         "appid": "479010",
@@ -107507,7 +107566,7 @@
         "appid": "495820",
         "name": "Lil Tanks",
         "added_date": "2025-06-27T02:31:13.004466+00:00",
-        "updated_date": "2025-06-26T08:41:58+00:00",
+        "updated_date": "2025-11-18T21:53:59.736764+00:00",
         "type": "game",
         "tags": [
             "Action",
@@ -108901,6 +108960,19 @@
             "Indie"
         ],
         "nsfw": false
+    },
+    {
+        "appid": "498940",
+        "name": "WarBirds Dawn of Aces, World War I Air Combat",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Massively Multiplayer",
+            "Simulation"
+        ],
+        "nsfw": false,
+        "added_date": "2025-11-18T21:32:54.891380+00:00",
+        "updated_date": "2025-11-11T21:32:54.891396+00:00"
     },
     {
         "appid": "498990",
@@ -694040,7 +694112,7 @@
         "appid": "3301060",
         "name": "Desktop Mate",
         "added_date": "2025-10-09T14:42:20.208575+00:00",
-        "updated_date": "2025-10-09T14:42:20.208575+00:00",
+        "updated_date": "2025-11-18T21:33:34.678196+00:00",
         "type": "game",
         "tags": [
             "Free To Play",
