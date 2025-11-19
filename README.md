@@ -14,7 +14,7 @@ This repository is directly linked to the **SteamTools** project:
 
 If you need a **manifest** or a **ManiLua** (`.lua`) for a specific Steam app, join the official SteamTools community:
 
-👉 **Discord:** [https://discord.com/invite/GrSCq4DreV](https://discord.com/invite/GrSCq4DreV)
+👉 **Discord:** [discord.gg/steamtools](https://discord.com/invite/GrSCq4DreV)
 
 Once inside, use the bot commands:
 
