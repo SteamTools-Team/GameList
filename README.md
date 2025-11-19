@@ -12,7 +12,7 @@ This repository is directly linked to the **SteamTools** project:
 
 ## 📦 How to Get a Manifest / ManiLua File
 
-If you need a **custom manifest** (`manifest.json`) or a **ManiLua** (`.lua`) for a specific Steam app, join the official SteamTools community:
+If you need a **manifest** or a **ManiLua** (`.lua`) for a specific Steam app, join the official SteamTools community:
 
 👉 **Discord:** [https://discord.com/invite/GrSCq4DreV](https://discord.com/invite/GrSCq4DreV)
 
