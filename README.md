@@ -6,7 +6,7 @@ Its purpose is simple: provide an updated list of games that the SteamTools clie
 ## 🔗 Project Link
 
 This repository is directly linked to the **SteamTools** project:
-➡️ steamtools.ayka.dev](https://steamtools.ayka.dev)
+➡️ [steamtools.ayka.dev](https://steamtools.ayka.dev)
 
 ---
 
