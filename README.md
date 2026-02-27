@@ -6,7 +6,7 @@ Its purpose is simple: provide an updated list of games that the SteamTools clie
 ## 🔗 Project Link
 
 This repository is directly linked to the **SteamTools** project:
-➡️ [steamtools.ayka.dev](https://steamtools.ayka.dev)
+➡️ [www.steamtools.app](https://www.steamtools.app/)
 
 ---
 
@@ -14,7 +14,7 @@ This repository is directly linked to the **SteamTools** project:
 
 If you need a **manifest** or a **ManiLua** (`.lua`) for a specific Steam app, join the official SteamTools community:
 
-👉 **Discord:** [discord.gg/steamtools](https://discord.com/invite/GrSCq4DreV)
+👉 **Discord:** [discord.gg/steamtools](https://www.steamtools.app/discord)
 
 Once inside, use the bot commands:
 
@@ -39,4 +39,4 @@ Instead of managing manifests manually, you can simply use the **SteamTools appl
 * Full compatibility with this repository
 
 Download & discover it here:
-➡️ [steamtools.ayka.dev](https://steamtools.ayka.dev)
+➡️ [www.steamtools.app](https://www.steamtools.app/)
