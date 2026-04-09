@@ -1,42 +1,47 @@
 # SteamTools Game Manifest Repository
 
-This repository hosts the `games.json` file used by **[SteamTools](https://steamtools.ayka.dev)**.
-Its purpose is simple: provide an updated list of games that the SteamTools client can read and process.
-
-## 🔗 Project Link
-
-This repository is directly linked to the **SteamTools** project:
-➡️ [www.steamtools.app](https://www.steamtools.app/)
+This repository hosts the `games.json` file used by SteamTools.
+It provides an up-to-date list of games used by the SteamTools client for manifest generation and processing.
 
 ---
 
-## 📦 How to Get a Manifest / ManiLua File
+## Project Links
 
-If you need a **manifest** or a **ManiLua** (`.lua`) for a specific Steam app, join the official SteamTools community:
+* [www.steamtools.app](https://www.steamtools.app)
+* [manilua.steamtools.app](https://manilua.steamtools.app)
 
-👉 **Discord:** [www.steamtools.app/discord](https://www.steamtools.app/discord)
+---
 
-Once inside, use the bot commands:
+## Get a Manifest / ManiLua File
 
-### `/manifest <appId>`
+To generate or update a manifest for a Steam game, use the official Discord bot:
 
-Generates a manifest or ManiLua file for the requested Steam **Application ID**.
+[www.steamtools.app/discord](https://www.steamtools.app/discord)
 
-### `/update <appId>`
+Commands:
 
+**/manifest `<appId>`**
+Generates a manifest or ManiLua file for the specified Steam application ID.
+
+**/update `<appId>`**
 Updates an existing manifest with the latest available data.
 
 ---
 
-## 🛠 Prefer Something Easier?
+## Alternative
 
-Instead of managing manifests manually, you can simply use the **SteamTools application**, which already includes:
+You can also use the SteamTools application instead of handling manifests manually.
 
-* Built-in manifest generation
+It includes:
+
+* Automatic manifest generation
 * Automatic updates
-* Local game management
-* A modern interface
 * Full compatibility with this repository
+* ManiLua support: [manilua.steamtools.app](https://manilua.steamtools.app)
 
-Download & discover it here:
-➡️ [www.steamtools.app](https://www.steamtools.app/)
+---
+
+## About
+
+SteamTools is a tool designed to simplify Steam manifest handling and automation.
+This repository provides the data used by the ecosystem.
