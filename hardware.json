@@ -1,0 +1,110 @@
+[
+  {
+    "appid": 353370,
+    "name": "Steam Controller (2015)",
+    "last_modified": 1773769625,
+    "price_change_number": 26222561
+  },
+  {
+    "appid": 358040,
+    "name": "VIVE Cosmos Elite",
+    "last_modified": 1638232346,
+    "price_change_number": 0
+  },
+  {
+    "appid": 1059530,
+    "name": "Valve Index® Headset",
+    "last_modified": 1645043152,
+    "price_change_number": 26563542
+  },
+  {
+    "appid": 1059550,
+    "name": "Valve Index® Controllers",
+    "last_modified": 1645043939,
+    "price_change_number": 26563542
+  },
+  {
+    "appid": 1059570,
+    "name": "Valve Index® Base Station",
+    "last_modified": 1658416116,
+    "price_change_number": 26563542
+  },
+  {
+    "appid": 1072820,
+    "name": "Face Gasket for Valve Index Headset – 2 Pack",
+    "last_modified": 1623367562,
+    "price_change_number": 22736671
+  },
+  {
+    "appid": 1271440,
+    "name": "HP Reverb G2",
+    "last_modified": 1634866137,
+    "price_change_number": 0
+  },
+  {
+    "appid": 1613900,
+    "name": "HP Reverb G2 Omnicept Edition",
+    "last_modified": 1627082872,
+    "price_change_number": 0
+  },
+  {
+    "appid": 1615160,
+    "name": "Valve Index® Replacement Left Controller",
+    "last_modified": 1623268409,
+    "price_change_number": 26013782
+  },
+  {
+    "appid": 1615180,
+    "name": "Valve Index® Replacement Right Controller",
+    "last_modified": 1623267920,
+    "price_change_number": 26013786
+  },
+  {
+    "appid": 1628580,
+    "name": "HTC VIVE Pro 2",
+    "last_modified": 1620751748,
+    "price_change_number": 0
+  },
+  {
+    "appid": 1634050,
+    "name": "Valve Index® Replacement Tether",
+    "last_modified": 1632766911,
+    "price_change_number": 23535347
+  },
+  {
+    "appid": 1675200,
+    "name": "Steam Deck",
+    "last_modified": 1781214136,
+    "price_change_number": 37038646
+  },
+  {
+    "appid": 1696780,
+    "name": "Steam Deck Docking Station",
+    "last_modified": 1688063310,
+    "price_change_number": 30312529
+  },
+  {
+    "appid": 2550670,
+    "name": "Steam Deck - Valve Certified Refurbished",
+    "last_modified": 1691514419,
+    "price_change_number": 36144951
+  },
+  {
+    "appid": 4165870,
+    "name": "Steam Controller",
+    "last_modified": 1785179804,
+    "price_change_number": 36950464
+  },
+  {
+    "appid": 4165890,
+    "name": "Steam Frame",
+    "last_modified": 1772740057,
+    "price_change_number": 0
+  },
+  {
+    "appid": 4165910,
+    "name": "Steam Machine",
+    "last_modified": 1782171053,
+    "price_change_number": 37298146
+  }
+]
