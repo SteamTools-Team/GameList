@@ -14834,7 +14834,7 @@
   {
     "appid": 4869680,
     "name": "Pixydra Studio",
-    "last_modified": 1787669072,
+    "last_modified": 1788186403,
     "price_change_number": 0
   },
   {
@@ -15206,7 +15206,7 @@
   {
     "appid": 4934800,
     "name": "Wanker",
-    "last_modified": 1787838873,
+    "last_modified": 1788185514,
     "price_change_number": 37067454
   },
   {
@@ -15321,6 +15321,12 @@
     "appid": 4956950,
     "name": "Cursor for Live2D",
     "last_modified": 1787721206,
+    "price_change_number": 0
+  },
+  {
+    "appid": 4957530,
+    "name": "UltraWall",
+    "last_modified": 1788185855,
     "price_change_number": 0
   },
   {
@@ -15818,7 +15824,7 @@
   {
     "appid": 5101810,
     "name": "TopOverlay",
-    "last_modified": 1787486457,
+    "last_modified": 1788187696,
     "price_change_number": 0
   },
   {
@@ -15903,6 +15909,12 @@
     "appid": 5153540,
     "name": "Simple GIF Maker — MP4, MOV, MKV, AVI to GIF & Animated WEBP",
     "last_modified": 1787840157,
+    "price_change_number": 0
+  },
+  {
+    "appid": 5176570,
+    "name": "Second Look — Screen Magnifier for Gaming and Low Vision",
+    "last_modified": 1788187625,
     "price_change_number": 0
   }
 ]
