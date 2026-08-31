@@ -1988,7 +1988,7 @@
   {
     "appid": 665300,
     "name": "Stream Avatars",
-    "last_modified": 1787384258,
+    "last_modified": 1788163665,
     "price_change_number": 37149137
   },
   {
@@ -6086,7 +6086,7 @@
   {
     "appid": 1612370,
     "name": "GameGenGenius",
-    "last_modified": 1776138749,
+    "last_modified": 1788099049,
     "price_change_number": 38411945
   },
   {
@@ -8097,7 +8097,7 @@
     "appid": 2354550,
     "name": "NukeMark",
     "last_modified": 1785515591,
-    "price_change_number": 38056546
+    "price_change_number": 38473554
   },
   {
     "appid": 2355280,
@@ -8517,7 +8517,7 @@
     "appid": 2516360,
     "name": "Nonsensical Video Generator",
     "last_modified": 1767677021,
-    "price_change_number": 33078735
+    "price_change_number": 38454772
   },
   {
     "appid": 2516700,
@@ -9726,12 +9726,6 @@
     "price_change_number": 29222913
   },
   {
-    "appid": 3056390,
-    "name": "HAELE 3D - Portrait Studio Pro - Drawing References",
-    "last_modified": 1786710662,
-    "price_change_number": 0
-  },
-  {
     "appid": 3056770,
     "name": "Watertime",
     "last_modified": 1749229299,
@@ -9896,7 +9890,7 @@
   {
     "appid": 3145640,
     "name": "Gaming Copilot: AI Companion",
-    "last_modified": 1761797806,
+    "last_modified": 1788177015,
     "price_change_number": 37149137
   },
   {
@@ -10899,7 +10893,7 @@
     "appid": 3637240,
     "name": "QR Controller",
     "last_modified": 1781616504,
-    "price_change_number": 37149137
+    "price_change_number": 38454772
   },
   {
     "appid": 3637350,
@@ -11667,7 +11661,7 @@
     "appid": 3926000,
     "name": "Echo",
     "last_modified": 1778845850,
-    "price_change_number": 35843541
+    "price_change_number": 38454772
   },
   {
     "appid": 3932920,
@@ -12212,14 +12206,14 @@
   {
     "appid": 4111530,
     "name": " FriedrichAI: Offline AI",
-    "last_modified": 1787779975,
+    "last_modified": 1788147268,
     "price_change_number": 38322359
   },
   {
     "appid": 4111850,
     "name": "滴答时钟",
     "last_modified": 1769266353,
-    "price_change_number": 37480217
+    "price_change_number": 38454772
   },
   {
     "appid": 4112090,
@@ -12507,7 +12501,7 @@
     "appid": 4212550,
     "name": "SmartMemeSearch Pro",
     "last_modified": 1786846711,
-    "price_change_number": 38072417
+    "price_change_number": 38454772
   },
   {
     "appid": 4214760,
@@ -12566,8 +12560,8 @@
   {
     "appid": 4236030,
     "name": "DefinitionNine's Audio Endpoint Switcher",
-    "last_modified": 1787562555,
-    "price_change_number": 0
+    "last_modified": 1788049342,
+    "price_change_number": 38443452
   },
   {
     "appid": 4237790,
@@ -12686,7 +12680,7 @@
   {
     "appid": 4270470,
     "name": "Minisprite Engine",
-    "last_modified": 1788034361,
+    "last_modified": 1788071315,
     "price_change_number": 38257536
   },
   {
@@ -12746,7 +12740,7 @@
   {
     "appid": 4289950,
     "name": "LingoHUD",
-    "last_modified": 1785542977,
+    "last_modified": 1788065571,
     "price_change_number": 0
   },
   {
@@ -12818,8 +12812,8 @@
   {
     "appid": 4304620,
     "name": "OVR Overlay Translator",
-    "last_modified": 1769885628,
-    "price_change_number": 33710717
+    "last_modified": 1788097740,
+    "price_change_number": 38452589
   },
   {
     "appid": 4307020,
@@ -12831,7 +12825,7 @@
     "appid": 4307970,
     "name": "Flips: A 2D Flipbook Animation Tool by zelun_",
     "last_modified": 1771437957,
-    "price_change_number": 38415824
+    "price_change_number": 38451631
   },
   {
     "appid": 4314080,
@@ -13107,7 +13101,7 @@
     "appid": 4400360,
     "name": "ConfigNexus | 游戏数据驱动引擎",
     "last_modified": 1784591547,
-    "price_change_number": 37230846
+    "price_change_number": 38465887
   },
   {
     "appid": 4403650,
@@ -13179,7 +13173,7 @@
     "appid": 4431300,
     "name": "美好人生：音乐盒  What a Life: Music Box",
     "last_modified": 1774590270,
-    "price_change_number": 38193404
+    "price_change_number": 38454772
   },
   {
     "appid": 4431900,
@@ -13472,7 +13466,7 @@
   {
     "appid": 4507050,
     "name": "Plant Anywhere",
-    "last_modified": 1781741065,
+    "last_modified": 1788168676,
     "price_change_number": 34491158
   },
   {
@@ -13557,7 +13551,7 @@
     "appid": 4526390,
     "name": "SuperIMGViewr",
     "last_modified": 1786363612,
-    "price_change_number": 38160293
+    "price_change_number": 38449246
   },
   {
     "appid": 4527190,
@@ -13724,7 +13718,7 @@
   {
     "appid": 4571020,
     "name": "Mousify",
-    "last_modified": 1788021401,
+    "last_modified": 1788102713,
     "price_change_number": 37149137
   },
   {
@@ -13744,6 +13738,12 @@
     "name": "Mei Music",
     "last_modified": 1783115006,
     "price_change_number": 37149137
+  },
+  {
+    "appid": 4579250,
+    "name": "I Am Octopus",
+    "last_modified": 1788148670,
+    "price_change_number": 0
   },
   {
     "appid": 4579800,
@@ -13887,7 +13887,7 @@
     "appid": 4620140,
     "name": "iMic - Voice Changer",
     "last_modified": 1784055371,
-    "price_change_number": 37424471
+    "price_change_number": 38454772
   },
   {
     "appid": 4620960,
@@ -13947,7 +13947,7 @@
     "appid": 4633300,
     "name": "Cursor Charm",
     "last_modified": 1787597730,
-    "price_change_number": 38128584
+    "price_change_number": 38457750
   },
   {
     "appid": 4636530,
@@ -13958,7 +13958,7 @@
   {
     "appid": 4641690,
     "name": "D.R.A.F.T. VR",
-    "last_modified": 1786325410,
+    "last_modified": 1788050810,
     "price_change_number": 37739344
   },
   {
@@ -14066,7 +14066,7 @@
   {
     "appid": 4675980,
     "name": "PrivaEmanator",
-    "last_modified": 1782695984,
+    "last_modified": 1788069695,
     "price_change_number": 37108871
   },
   {
@@ -14108,7 +14108,7 @@
   {
     "appid": 4685730,
     "name": "VisiMouse",
-    "last_modified": 1780657033,
+    "last_modified": 1788096689,
     "price_change_number": 0
   },
   {
@@ -14301,7 +14301,7 @@
     "appid": 4747010,
     "name": "OverlayGG: Game Guide Overlay",
     "last_modified": 1787686157,
-    "price_change_number": 38268346
+    "price_change_number": 38454777
   },
   {
     "appid": 4747180,
@@ -14600,7 +14600,7 @@
   {
     "appid": 4814730,
     "name": "Hologram Engine",
-    "last_modified": 1788038096,
+    "last_modified": 1788159793,
     "price_change_number": 0
   },
   {
@@ -14625,7 +14625,7 @@
     "appid": 4822820,
     "name": "Audictrl",
     "last_modified": 1783954186,
-    "price_change_number": 37068664
+    "price_change_number": 38454772
   },
   {
     "appid": 4823590,
@@ -14702,13 +14702,13 @@
   {
     "appid": 4847000,
     "name": "WinGrid",
-    "last_modified": 1787664975,
+    "last_modified": 1788130769,
     "price_change_number": 38097674
   },
   {
     "appid": 4849620,
     "name": "Server Share",
-    "last_modified": 1787403721,
+    "last_modified": 1788116231,
     "price_change_number": 37728954
   },
   {
@@ -14756,7 +14756,7 @@
   {
     "appid": 4856440,
     "name": "RPG MAKER U2U",
-    "last_modified": 1787803105,
+    "last_modified": 1788149431,
     "price_change_number": 0
   },
   {
@@ -14810,7 +14810,7 @@
   {
     "appid": 4864520,
     "name": "Game Overlay Translator",
-    "last_modified": 1787622534,
+    "last_modified": 1788053747,
     "price_change_number": 37480268
   },
   {
@@ -14877,7 +14877,7 @@
     "appid": 4874240,
     "name": "Neural Soul",
     "last_modified": 1787897881,
-    "price_change_number": 37872861
+    "price_change_number": 38466217
   },
   {
     "appid": 4874400,
@@ -14985,12 +14985,12 @@
     "appid": 4892900,
     "name": "Selby",
     "last_modified": 1787836638,
-    "price_change_number": 38177169
+    "price_change_number": 38454809
   },
   {
     "appid": 4896890,
     "name": "Pixel Motion Studio",
-    "last_modified": 1787998333,
+    "last_modified": 1788164115,
     "price_change_number": 0
   },
   {
@@ -15086,8 +15086,8 @@
   {
     "appid": 4912480,
     "name": "ePaperCraft SHIRYU",
-    "last_modified": 1787995967,
-    "price_change_number": 38430771
+    "last_modified": 1788058715,
+    "price_change_number": 38454772
   },
   {
     "appid": 4912670,
@@ -15098,7 +15098,7 @@
   {
     "appid": 4913010,
     "name": "Game Frame",
-    "last_modified": 1785164929,
+    "last_modified": 1788074851,
     "price_change_number": 0
   },
   {
@@ -15338,7 +15338,7 @@
   {
     "appid": 4960180,
     "name": "屏幕精灵",
-    "last_modified": 1787692009,
+    "last_modified": 1788094905,
     "price_change_number": 38335206
   },
   {
@@ -15350,7 +15350,7 @@
   {
     "appid": 4962070,
     "name": "镜仓 FileMirror",
-    "last_modified": 1786892143,
+    "last_modified": 1788076766,
     "price_change_number": 0
   },
   {
@@ -15488,7 +15488,7 @@
   {
     "appid": 4993510,
     "name": "Desktop 3D Display",
-    "last_modified": 1787539579,
+    "last_modified": 1788072624,
     "price_change_number": 0
   },
   {
@@ -15584,7 +15584,7 @@
   {
     "appid": 5019780,
     "name": "RPG Portrait Generator",
-    "last_modified": 1787994794,
+    "last_modified": 1788163968,
     "price_change_number": 38431164
   },
   {
@@ -15648,6 +15648,12 @@
     "price_change_number": 0
   },
   {
+    "appid": 5043890,
+    "name": "Goodnight Computer",
+    "last_modified": 1788141624,
+    "price_change_number": 0
+  },
+  {
     "appid": 5044240,
     "name": "InkQuest: Text Game Engine",
     "last_modified": 1786136552,
@@ -15668,8 +15674,8 @@
   {
     "appid": 5048210,
     "name": "Spectral",
-    "last_modified": 1786829648,
-    "price_change_number": 0
+    "last_modified": 1788172342,
+    "price_change_number": 38471176
   },
   {
     "appid": 5051510,
@@ -15698,8 +15704,8 @@
   {
     "appid": 5063990,
     "name": "Yakutori - Japanese screen capture translator",
-    "last_modified": 1786972063,
-    "price_change_number": 0
+    "last_modified": 1788145306,
+    "price_change_number": 38463541
   },
   {
     "appid": 5064400,
@@ -15734,7 +15740,7 @@
   {
     "appid": 5066330,
     "name": "Dashboard Engine",
-    "last_modified": 1787152675,
+    "last_modified": 1788179535,
     "price_change_number": 0
   },
   {
@@ -15776,7 +15782,7 @@
   {
     "appid": 5082780,
     "name": "Desktop Dreampair",
-    "last_modified": 1787504530,
+    "last_modified": 1788104820,
     "price_change_number": 0
   },
   {
@@ -15800,8 +15806,8 @@
   {
     "appid": 5092950,
     "name": "Arabian Parts Calculator - Professional Version",
-    "last_modified": 1787025619,
-    "price_change_number": 0
+    "last_modified": 1788161509,
+    "price_change_number": 38467389
   },
   {
     "appid": 5093260,
@@ -15848,7 +15854,7 @@
   {
     "appid": 5116240,
     "name": "MistWindow",
-    "last_modified": 1788030553,
+    "last_modified": 1788095552,
     "price_change_number": 0
   },
   {
@@ -15872,8 +15878,8 @@
   {
     "appid": 5122970,
     "name": "推しマスコット",
-    "last_modified": 1787969592,
-    "price_change_number": 38078687
+    "last_modified": 1788123023,
+    "price_change_number": 38457771
   },
   {
     "appid": 5128360,
@@ -15884,7 +15890,7 @@
   {
     "appid": 5130370,
     "name": "Asiden",
-    "last_modified": 1788017736,
+    "last_modified": 1788179258,
     "price_change_number": 0
   },
   {
